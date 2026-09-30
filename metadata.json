@@ -1,0 +1,6 @@
+{
+  "name": "VisionAI - Visual Intelligence & Image Analyzer",
+  "description": "Multimodal AI visual recognition and deep image analysis in Uzbek, Russian, and English.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
